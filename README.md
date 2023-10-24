@@ -1,3 +1,2 @@
-# Mod-1-Challenge
-Module One Challenge for Bootcamp
-
+# Code Refactor Starter Code
+This code was refactored to be more accessible and easier to read by introducing semantic HTML elements and additional attributes. The starter code can be found at https://github.com/coding-boot-camp/urban-octo-telegram.
